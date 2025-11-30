@@ -1,5 +1,6 @@
-#SmatterWaveMap
-###Real-Time RF ⇆ Audio Correlation Engine
+##SmatterWaveMap
+
+Real-Time RF ⇆ Audio Correlation Engine
 
 <p align="center">
   <img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge">
