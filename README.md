@@ -14,7 +14,7 @@ Visualizations: spectrum, waterfall, audio spectrogram, overlap heatmap (JavaFX)
 Export: JSON/CSV/PDF forensic reports, SHA-256 session hashing
 CLI, GUI, and programmatic API
 
-6. Correlation Algorithm
+Correlation Algorithm
 
 The Adaptive Time-Warping engine performs:
 global NCC alignment
@@ -22,9 +22,9 @@ local DTW warping
 spectral similarity scoring
 Final correlation is computed as a weighted sum of spectral + temporal alignment.
 
-7. Results
+Results
 In controlled tests, SmatterWaveMap successfully detected similarity patterns between synthetic RF-modulated signals and their corresponding audio sources, even with time shifts up to ±5 seconds.
 Similarity accuracy: 82–96% depending on distortion.
 
-8. Conclusion
+Conclusion
 SmatterWaveMap provides a novel cross-domain analytical framework for investigating potential relationships between RF and audio signals. Future work includes convolutional neural network enhancement and multi-device RF fusion.
