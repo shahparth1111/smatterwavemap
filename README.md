@@ -2,7 +2,7 @@
 ### *Real-Time RF ⇆ Audio Correlation Engine*
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Build-Failing-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge">
   <img src="https://img.shields.io/badge/Java-17+-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/License-CC0%201.0-lightgrey?style=for-the-badge">
   <img src="https://img.shields.io/badge/SDR-HackRF%20%7C%20SoapySDR-purple?style=for-the-badge">
